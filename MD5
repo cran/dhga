@@ -1,0 +1,15 @@
+29b0e9a5f580371d60ad8cf72ed7e094 *DESCRIPTION
+3576cf023a8e246f8a605c62629a3e7d *NAMESPACE
+c3820925399f8a550e258b9d97fa4a49 *R/dhga.R
+53c625dad964c7d64281964241b93b1b *data/rice_normal.rda
+6c4bc68b6908edcb75267e9f66f3626c *data/rice_salt.rda
+942c42252648a6d7014b32f52c4b1ca5 *man/Adjacency.Rd
+e3fd47777495bfc23d121dabaad41194 *man/DiffHub.Rd
+6dab04aad6e975aee48c60e003e5897a *man/HubPlot.Rd
+e01cb5e8e2913a7f4e0074b47c429d59 *man/HubStatus.Rd
+950bc0c285b94fce207be69db7980617 *man/WeightedGeneScore.Rd
+5a016e3683e9f74d6ed8e4be183a2cb8 *man/hub.pval.cutoff.Rd
+370a1da80e00ec295edbc86a2d2e9ab2 *man/hub.wgs.Rd
+3ed77f070b01a8146a63b0148e7831b2 *man/pvalue.hub.Rd
+4e971d37b78321ae0de89fc1374ce40c *man/rice_normal.Rd
+ec5deb5cc1e396aff52471da3589599e *man/rice_salt.Rd
